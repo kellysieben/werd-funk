@@ -1,0 +1,12 @@
+###
+
+GET http://localhost:7071/api/weatherforecast
+
+###
+
+POST http://localhost:7071/api/RndStarWars
+content-type: application/json
+
+{"name":"Andor"}
+
+###
