@@ -1,6 +1,6 @@
 ###
 
-GET http://localhost:7071/api/weatherforecast
+GET http://localhost:7777/api/weatherforecast
 
 ###
 

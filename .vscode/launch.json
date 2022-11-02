@@ -6,7 +6,7 @@
             "type": "blazorwasm",
             "request": "launch",
             "cwd": "${workspaceFolder}/client",
-            "url": "http://localhost:5034"
+            "url": "http://localhost:5002"
         },
         {
             "name": "Attach to .NET Functions",
