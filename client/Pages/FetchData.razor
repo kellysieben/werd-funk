@@ -43,14 +43,24 @@ else
     protected override async Task OnInitializedAsync()
     {
         Console.WriteLine("JBF : RAZOR : FETCH DATA");
-        try
+        // try
+        // {
+        //     forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("/api/WeatherForecast") ?? new WeatherForecast[] { };
+        // }
+        // catch (Exception ex)
+        // {
+        //     Console.WriteLine($"JBF EX : {ex.ToString()}");
+        // }
+
+        var randomNumber = new Random();
+        var temp = 0;
+
+        forecasts = Enumerable.Range(1, 50).Select(index => new WeatherForecast
         {
-            forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("/api/WeatherForecast") ?? new WeatherForecast[] { };
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"JBF EX : {ex.ToString()}");
-        }
-        //forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+            Date = DateTime.Now.AddDays(index),
+            TemperatureC = temp = randomNumber.Next(-20, 55)
+        }).ToArray();
+
+        // forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("/sample-data/weather.json");
     }
 }

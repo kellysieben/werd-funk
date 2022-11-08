@@ -1,17 +1,27 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
+<div>
+    <div>
+        <nav class="navbar fixed-top navbar-expand navbar-dark bg-secondary">
+            <div class="navbar-nav">
+                <NavLink href="" Match="NavLinkMatch.All" class="nav-item nav-link">
+                    Werd Fun(k)
+                </NavLink>
+            </div>
+        </nav>
     </div>
 
-    <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
-
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
+    <div class="app-container">
+        @Body
+    </div>
+    
+    <div>
+        <nav class="navbar fixed-bottom navbar-expand navbar-dark bg-primary">
+            <div class="navbar-nav">
+                <NavLink href="" Match="NavLinkMatch.All" class="nav-item nav-link">Home</NavLink>
+                <NavLink href="counter" class="nav-item nav-link">Counter</NavLink>
+                <NavLink href="fetchdata" class="nav-item nav-link">Fetch Data</NavLink>
+            </div>
+        </nav>
+    </div>
 </div>

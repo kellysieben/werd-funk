@@ -1,27 +1,302 @@
 ﻿[
   {
-    "date": "2018-05-06",
-    "temperatureC": 1,
-    "summary": "Freezing"
+    "date": "2022-11-08T20:49:15.3049945-07:00",
+    "temperatureC": -14,
+    "summary": "Freezing!",
+    "temperatureF": 7
   },
   {
-    "date": "2018-05-07",
-    "temperatureC": 14,
-    "summary": "Bracing"
-  },
-  {
-    "date": "2018-05-08",
-    "temperatureC": -13,
-    "summary": "Freezing"
-  },
-  {
-    "date": "2018-05-09",
-    "temperatureC": -16,
-    "summary": "Balmy"
-  },
-  {
-    "date": "2018-05-10",
+    "date": "2022-11-09T20:49:15.3056627-07:00",
     "temperatureC": -2,
-    "summary": "Chilly"
+    "summary": "Freezing!",
+    "temperatureF": 29
+  },
+  {
+    "date": "2022-11-10T20:49:15.3056688-07:00",
+    "temperatureC": 10,
+    "summary": "Cold",
+    "temperatureF": 49
+  },
+  {
+    "date": "2022-11-11T20:49:15.3056693-07:00",
+    "temperatureC": -2,
+    "summary": "Freezing!",
+    "temperatureF": 29
+  },
+  {
+    "date": "2022-11-12T20:49:15.3056701-07:00",
+    "temperatureC": 9,
+    "summary": "Cold",
+    "temperatureF": 48
+  },
+  {
+    "date": "2022-11-13T20:49:15.3056705-07:00",
+    "temperatureC": -13,
+    "summary": "Freezing!",
+    "temperatureF": 9
+  },
+  {
+    "date": "2022-11-14T20:49:15.305671-07:00",
+    "temperatureC": 39,
+    "summary": "Hot",
+    "temperatureF": 102
+  },
+  {
+    "date": "2022-11-15T20:49:15.3056714-07:00",
+    "temperatureC": 36,
+    "summary": "Hot",
+    "temperatureF": 96
+  },
+  {
+    "date": "2022-11-16T20:49:15.3056721-07:00",
+    "temperatureC": 46,
+    "summary": "Hot",
+    "temperatureF": 114
+  },
+  {
+    "date": "2022-11-17T20:49:15.3056726-07:00",
+    "temperatureC": 1,
+    "summary": "Cold",
+    "temperatureF": 33
+  },
+  {
+    "date": "2022-11-18T20:49:15.3056731-07:00",
+    "temperatureC": -6,
+    "summary": "Freezing!",
+    "temperatureF": 22
+  },
+  {
+    "date": "2022-11-19T20:49:15.3056735-07:00",
+    "temperatureC": 53,
+    "summary": "Hot",
+    "temperatureF": 127
+  },
+  {
+    "date": "2022-11-20T20:49:15.3056742-07:00",
+    "temperatureC": 23,
+    "summary": "Mild",
+    "temperatureF": 73
+  },
+  {
+    "date": "2022-11-21T20:49:15.3056746-07:00",
+    "temperatureC": 6,
+    "summary": "Cold",
+    "temperatureF": 42
+  },
+  {
+    "date": "2022-11-22T20:49:15.3056751-07:00",
+    "temperatureC": 41,
+    "summary": "Hot",
+    "temperatureF": 105
+  },
+  {
+    "date": "2022-11-23T20:49:15.3056755-07:00",
+    "temperatureC": -3,
+    "summary": "Freezing!",
+    "temperatureF": 27
+  },
+  {
+    "date": "2022-11-24T20:49:15.305676-07:00",
+    "temperatureC": 6,
+    "summary": "Cold",
+    "temperatureF": 42
+  },
+  {
+    "date": "2022-11-25T20:49:15.3056764-07:00",
+    "temperatureC": 8,
+    "summary": "Cold",
+    "temperatureF": 46
+  },
+  {
+    "date": "2022-11-26T20:49:15.3056768-07:00",
+    "temperatureC": 18,
+    "summary": "Mild",
+    "temperatureF": 64
+  },
+  {
+    "date": "2022-11-27T20:49:15.3056772-07:00",
+    "temperatureC": -3,
+    "summary": "Freezing!",
+    "temperatureF": 27
+  },
+  {
+    "date": "2022-11-28T20:49:15.3056776-07:00",
+    "temperatureC": -2,
+    "summary": "Freezing!",
+    "temperatureF": 29
+  },
+  {
+    "date": "2022-11-29T20:49:15.305678-07:00",
+    "temperatureC": 53,
+    "summary": "Hot",
+    "temperatureF": 127
+  },
+  {
+    "date": "2022-11-30T20:49:15.3056784-07:00",
+    "temperatureC": 10,
+    "summary": "Cold",
+    "temperatureF": 49
+  },
+  {
+    "date": "2022-12-01T20:49:15.3056789-07:00",
+    "temperatureC": 6,
+    "summary": "Cold",
+    "temperatureF": 42
+  },
+  {
+    "date": "2022-12-02T20:49:15.3056793-07:00",
+    "temperatureC": -20,
+    "summary": "Freezing!",
+    "temperatureF": -3
+  },
+  {
+    "date": "2022-12-03T20:49:15.3056797-07:00",
+    "temperatureC": 12,
+    "summary": "Cold",
+    "temperatureF": 53
+  },
+  {
+    "date": "2022-12-04T20:49:15.3056833-07:00",
+    "temperatureC": -11,
+    "summary": "Freezing!",
+    "temperatureF": 13
+  },
+  {
+    "date": "2022-12-05T20:49:15.3056838-07:00",
+    "temperatureC": 25,
+    "summary": "Mild",
+    "temperatureF": 76
+  },
+  {
+    "date": "2022-12-06T20:49:15.3056843-07:00",
+    "temperatureC": -13,
+    "summary": "Freezing!",
+    "temperatureF": 9
+  },
+  {
+    "date": "2022-12-07T20:49:15.3056852-07:00",
+    "temperatureC": 23,
+    "summary": "Mild",
+    "temperatureF": 73
+  },
+  {
+    "date": "2022-12-08T20:49:15.3056856-07:00",
+    "temperatureC": 50,
+    "summary": "Hot",
+    "temperatureF": 121
+  },
+  {
+    "date": "2022-12-09T20:49:15.305686-07:00",
+    "temperatureC": 10,
+    "summary": "Cold",
+    "temperatureF": 49
+  },
+  {
+    "date": "2022-12-10T20:49:15.3056863-07:00",
+    "temperatureC": 44,
+    "summary": "Hot",
+    "temperatureF": 111
+  },
+  {
+    "date": "2022-12-11T20:49:15.3056867-07:00",
+    "temperatureC": 22,
+    "summary": "Mild",
+    "temperatureF": 71
+  },
+  {
+    "date": "2022-12-12T20:49:15.3056871-07:00",
+    "temperatureC": 51,
+    "summary": "Hot",
+    "temperatureF": 123
+  },
+  {
+    "date": "2022-12-13T20:49:15.3056875-07:00",
+    "temperatureC": -8,
+    "summary": "Freezing!",
+    "temperatureF": 18
+  },
+  {
+    "date": "2022-12-14T20:49:15.3056878-07:00",
+    "temperatureC": 21,
+    "summary": "Mild",
+    "temperatureF": 69
+  },
+  {
+    "date": "2022-12-15T20:49:15.3056882-07:00",
+    "temperatureC": -9,
+    "summary": "Freezing!",
+    "temperatureF": 16
+  },
+  {
+    "date": "2022-12-16T20:49:15.3056886-07:00",
+    "temperatureC": 18,
+    "summary": "Mild",
+    "temperatureF": 64
+  },
+  {
+    "date": "2022-12-17T20:49:15.305689-07:00",
+    "temperatureC": 46,
+    "summary": "Hot",
+    "temperatureF": 114
+  },
+  {
+    "date": "2022-12-18T20:49:15.3056894-07:00",
+    "temperatureC": -3,
+    "summary": "Freezing!",
+    "temperatureF": 27
+  },
+  {
+    "date": "2022-12-19T20:49:15.3056898-07:00",
+    "temperatureC": -16,
+    "summary": "Freezing!",
+    "temperatureF": 4
+  },
+  {
+    "date": "2022-12-20T20:49:15.3056901-07:00",
+    "temperatureC": -8,
+    "summary": "Freezing!",
+    "temperatureF": 18
+  },
+  {
+    "date": "2022-12-21T20:49:15.3056905-07:00",
+    "temperatureC": 0,
+    "summary": "Freezing!",
+    "temperatureF": 32
+  },
+  {
+    "date": "2022-12-22T20:49:15.3056909-07:00",
+    "temperatureC": 11,
+    "summary": "Cold",
+    "temperatureF": 51
+  },
+  {
+    "date": "2022-12-23T20:49:15.3056913-07:00",
+    "temperatureC": 1,
+    "summary": "Cold",
+    "temperatureF": 33
+  },
+  {
+    "date": "2022-12-24T20:49:15.3056917-07:00",
+    "temperatureC": -14,
+    "summary": "Freezing!",
+    "temperatureF": 7
+  },
+  {
+    "date": "2022-12-25T20:49:15.3056921-07:00",
+    "temperatureC": 45,
+    "summary": "Hot",
+    "temperatureF": 112
+  },
+  {
+    "date": "2022-12-26T20:49:15.3056926-07:00",
+    "temperatureC": -10,
+    "summary": "Freezing!",
+    "temperatureF": 15
+  },
+  {
+    "date": "2022-12-27T20:49:15.3056932-07:00",
+    "temperatureC": 12,
+    "summary": "Cold",
+    "temperatureF": 53
   }
 ]

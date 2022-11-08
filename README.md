@@ -1,5 +1,7 @@
 # werd-funk
 
+## stuff i did
+
 ### scaffold
 * already installed Azure Functions Core Tools
 * GitHub : create new repo
@@ -47,6 +49,16 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 * api, azure funcs
   + use vscode debugger --> Attach to .NET Functions
   + vscode REST client extension (*.http) to GET/POST/PUT/etc to api
+
+### publish SWA with Azure & GitHub Actions
+* https://learn.microsoft.com/en-us/azure/static-web-apps/deploy-blazor
+
+### icons
+* https://favicon.io/
+
+### razor code behind
+
+### SW api.... get & razor
 
 ## when stuff craps out
 
