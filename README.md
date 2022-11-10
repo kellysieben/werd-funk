@@ -84,3 +84,6 @@ System.IO.IOException: Failed to bind to address http://127.0.0.1:5002: address 
 * https://techstrology.com/unhandled-exception-system-io-ioexception-failed-to-bind-to-address-http-127-0-0-15000-address-already-in-use/
   + lsof -i:<port>
   + kill -9 <pid>
+
+### git clone
+* https://mattferderer.com/fix-git-self-signed-certificate-in-certificate-chain-on-windows

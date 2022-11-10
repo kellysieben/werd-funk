@@ -2,25 +2,37 @@
 
 <div>
     <div>
-        <nav class="navbar fixed-top navbar-expand navbar-dark bg-secondary">
+        <nav class="navbar fixed-top navbar-expand bg-light py-0" style="border-bottom:solid black 1px;">
             <div class="navbar-nav">
                 <NavLink href="" Match="NavLinkMatch.All" class="nav-item nav-link">
-                    Werd Fun(k)
+                    <h3>Werd Fun(k)</h3>
                 </NavLink>
             </div>
         </nav>
     </div>
 
-    <div class="app-container">
+    <div class="app-container" style="padding-top: 60px; padding-bottom: 60px;">
         @Body
     </div>
-    
+
     <div>
-        <nav class="navbar fixed-bottom navbar-expand navbar-dark bg-primary">
-            <div class="navbar-nav">
-                <NavLink href="" Match="NavLinkMatch.All" class="nav-item nav-link">Home</NavLink>
-                <NavLink href="counter" class="nav-item nav-link">Counter</NavLink>
-                <NavLink href="fetchdata" class="nav-item nav-link">Fetch Data</NavLink>
+        <nav class="navbar fixed-bottom navbar-expand navbar-dark bg-primary py-0">
+            <div class="navbar-nav nav-fill w-100">
+                <NavLink href="" Match="NavLinkMatch.All" class="nav-item nav-link">
+                    <span>
+                        <img src=".\img\house-door.svg" alt="Home" width="32" height="32">
+                    </span>
+                </NavLink>
+                <NavLink href="counter" class="nav-item nav-link">
+                    <span>
+                        <img src=".\img\journal-text.svg" alt="Home" width="32" height="32">
+                    </span>
+                </NavLink>
+                <NavLink href="fetchdata" class="nav-item nav-link">
+                    <span>
+                        <img src=".\img\search.svg" alt="Home" width="32" height="32">
+                    </span>
+                </NavLink>
             </div>
         </nav>
     </div>
